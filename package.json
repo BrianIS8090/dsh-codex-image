@@ -21,7 +21,8 @@
     "cordis.patch.yml",
     "locale/*.json",
     "icon.svg",
-    "README.md"
+    "README.md",
+    "INSTALL.md"
   ],
   "scripts": {
     "check": "node --check lib/index.js && node --check lib/core.js && node --check lib/config.js && node --check lib/client.js",
